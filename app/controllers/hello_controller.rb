@@ -1,5 +1,4 @@
 class HelloController < ApplicationController
-    def index
-        render plain:"Hello, This is Rails sample page!"
+    def index        
     end
 end
